@@ -1,0 +1,40 @@
+# macOS 系统文件
+.DS_Store
+
+# 用户特定文件
+.CFUserTextEncoding
+
+# Python 虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+.condarc
+
+# 配置文件
+.bash_history
+.bash_profile
+.bash_sessions/
+.zshrc
+.viminfo
+
+# 系统目录
+.cache/
+.config/
+.local/
+
+# IDEs 和编辑器
+.vscode/
+.idea/
+.spyder-py3/
+
+# R
+.RData
+.Rhistory
+.Rapp.history
+
